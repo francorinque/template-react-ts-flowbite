@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+
+/* Explicitly reset #root */
+#root {
+  @apply p-0! h-full;
+}
