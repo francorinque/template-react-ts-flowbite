@@ -1,12 +1,13 @@
-# 🧪 React Tailwind TypeScript + Flowbite Starter
+# 🧪 React + Tailwind + TypeScript + Flowbite + Zustand Starter
 
 Este proyecto es un template base para aplicaciones en React utilizando:
 
-- ⚛️ React 18+
-- 💨 TailwindCSS
-- 🧩 Flowbite y Flowbite-React
-- 🟦 TypeScript
-- 📁 Estructura de carpetas organizada
+- ⚛️ **React 18+**
+- 💨 **TailwindCSS**
+- 🧩 **Flowbite** y **Flowbite-React**
+- 🟦 **TypeScript**
+- 🌱 **Zustand** (para manejo de estado global)
+- 📁 **Estructura de carpetas organizada**
 
 ---
 
